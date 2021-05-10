@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 >--->
-![](https://static.wixstatic.com/media/8deefe_80cb5313220e4217995accab1ed24981~mv2.gif)
+![](https://i.pinimg.com/originals/89/c8/c5/89c8c5f8fc34b3b81ae1ebb0ce607bd5.gif)
 
 
 <!---
