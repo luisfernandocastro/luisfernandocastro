@@ -37,16 +37,16 @@ You can click the Preview link to take a look at your changes.
 
 ### 📌 Proyectos destacados:
 
-- 🔹 **Biken (https://github.com/tuusuario/Biken)** - <!--- Breve descripción del proyecto.-->
-- 🔹 **La VaspaHuila(https://github.com/tuusuario/Lavaspahuila)** - <!--- Otra breve descripción. -->
+- 🔹 **Biken (https://github.com/luisfernandocastro/Biken)** - <!--- Breve descripción del proyecto.-->
+- 🔹 **La VaspaHuila(https://github.com/luisfernandocastro/Lavaspahuila)** - <!--- Otra breve descripción. -->
 
 ---
 
 ### 📊 Estadísticas de GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical" alt="Racha de contribuciones" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisfernandocastro&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfernandocastro&theme=radical" alt="Racha de contribuciones" />
 </p>
 
 ---
