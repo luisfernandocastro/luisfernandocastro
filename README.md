@@ -30,23 +30,23 @@ You can click the Preview link to take a look at your changes.
 ### 🛠️ Tecnologías y herramientas:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,csharp,dotnet,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,dotnet,mysql,git,github,vscode,figma" />
 </p>
 
 ---
 
 ### 📌 Proyectos destacados:
 
-- 🔹 **Biken (https://github.com/luisfernandocastro/Biken)** - <!--- Breve descripción del proyecto.-->
-- 🔹 **La VaspaHuila(https://github.com/luisfernandocastro/Lavaspahuila)** - <!--- Otra breve descripción. -->
+- 🔹 **Biken (https://github.com/luisfernandocastro/BikenWeb)** - <!--- Breve descripción del proyecto.-->
+- 🔹 **La VaspaHuila(https://github.com/luisfernandocastro/LAVASPAHUILA)** - <!--- Otra breve descripción. -->
 
 ---
 
 ### 📊 Estadísticas de GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisfernandocastro&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfernandocastro&theme=radical" alt="Racha de contribuciones" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisfernandocastro&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfernandocastro&theme=tokyonight&locale=es" alt="Racha de contribuciones" />
 </p>
 
 ---
